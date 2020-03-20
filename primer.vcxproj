@@ -19,7 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch01\ex1_2.cpp" />
+    <ClInclude Include="ch01\Sales_item.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ch01\ex1_5_1.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="primer.rc" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
