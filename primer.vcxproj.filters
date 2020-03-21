@@ -28,7 +28,7 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch04\ex4_6.cpp">
+    <ClCompile Include="ch06\ex6_5_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
