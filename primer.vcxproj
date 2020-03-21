@@ -26,7 +26,7 @@
     <ResourceCompile Include="primer.rc" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch03\ex3_2_3_3.cpp" />
+    <ClCompile Include="ch04\ex4_6.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
