@@ -26,7 +26,7 @@
     <ResourceCompile Include="primer.rc" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch02\ex2_3_2.cpp" />
+    <ClCompile Include="ch03\ex3_2_3_3.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
@@ -82,7 +82,7 @@
     <ClCompile>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
-      <WarningLevel>Level3</WarningLevel>
+      <WarningLevel>EnableAllWarnings</WarningLevel>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
       <Optimization>Disabled</Optimization>
     </ClCompile>
