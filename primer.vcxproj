@@ -23,9 +23,6 @@
     <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch01\ex1_5_1.cpp" />
-  </ItemGroup>
-  <ItemGroup>
     <ResourceCompile Include="primer.rc" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
